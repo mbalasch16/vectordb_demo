@@ -1,0 +1,9 @@
+chromadb
+langchain
+tiktoken
+openai
+langchain-community
+langchain_groq
+sentence-transformers
+torch
+langchain-text-splitters
