@@ -7,3 +7,4 @@ langchain_groq
 sentence-transformers
 torch
 langchain-text-splitters
+langchain-huggingface
