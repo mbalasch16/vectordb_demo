@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+uv/
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# ChromaDB files
+db/
+*.sqlite3
+*.bin
+
+# VSCode settings (optional)
+.vscode/
